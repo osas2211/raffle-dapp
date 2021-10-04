@@ -8,6 +8,7 @@ Rules:
 3. Anyone can participate in the raffle, and the participation fee is the same for everyone. However, each address can participate only once.
 4. Each ticket has the same probability of being picked.
 5. After a given time, defined at the beginning of the raffle, the administrator will close the raffle, and send the reward to the winner.
+6. As an added feature, the ticket_price is maintained in storage, which allows for introduction of dynamic pricing (i.e. as demand increases price of ticket increases)
 
 This raffle has three stages:
 
